@@ -6,13 +6,13 @@ applications you distribute provided that credit is given to
 the original author.
 
 A sample application (with full source and MSVC6 project)
-Can be found at the following location- [http://gpdev.net/NeuroDriver_bpnet.html](http://gpdev.net/NeuroDriver_bpnet.html)
+Can be found at the following location- [https://gpdev.net/NeuroDriver_bpnet.html](https://gpdev.net/NeuroDriver_bpnet.html)
 
 Let me know if you have any comments, questions or suggestions.
 
 Gideon Pertzov
 
-[http://gpdev.net](http://gpdev.net)
+[https://gpdev.net](https://gpdev.net)
 
 
 Legal Stuff
